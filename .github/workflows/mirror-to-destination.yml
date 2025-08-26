@@ -36,7 +36,7 @@ jobs:
 
           mv $TARGET_DIR/last_update.txt $TARGET_DIR/01_last_update.txt
           mv $TARGET_DIR/proxies.csv $TARGET_DIR/02_proxies.csv
-          mv $TARGET_DIR/proxies.txtb $TARGET_DIR/03_proxies.txt
+          mv $TARGET_DIR/proxies.txt $TARGET_DIR/03_proxies.txt
           echo "Files renamed."
 
           echo "
